@@ -1,0 +1,11 @@
+Phase 7 – Testing and Debugging
+
+The seventh phase is Testing and Debugging. After implementing the application and integrating the AI model, the complete LegalEase system needs to be tested carefully.
+
+Different types of inputs are provided to check whether the application produces the expected output. Both normal and invalid inputs should be considered during testing. For example, if required information is missing or an unexpected input is provided, the application should handle it properly.
+
+When errors or bugs are found, debugging is performed to identify the source of the problem. The code is corrected and tested again.
+
+Exception handling is also important in this phase. If an unexpected situation occurs, the application should handle the error properly instead of failing without providing useful feedback.
+
+Testing therefore ensures that the different components of LegalEase work together correctly and that the application behaves as expected.

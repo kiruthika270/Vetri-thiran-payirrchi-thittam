@@ -1,0 +1,15 @@
+Phase 6 – AI / Gemini Integration
+
+The sixth phase is one of the most important phases of LegalEase: AI/Gemini Integration.
+
+Generative AI is integrated into the application so that LegalEase can perform its intended AI-based document-generation task. Vertex AI Studio can be used during development to interact with generative AI models, experiment with prompts, and prototype the required AI solution.
+
+Prompt design is an important part of this phase. The instructions given to the AI model should clearly explain what output is expected. Different prompts can be experimented with to understand the quality and structure of the generated output.
+
+The complete AI workflow can be represented as:
+
+User Information → Prompt → Gemini/AI Model → AI Response → Application → Digital Document
+
+The application sends the required information to the model, receives the generated response, and then uses that response as part of the LegalEase document-generation process.
+
+This phase connects the Generative AI capability with the actual software application, rather than using AI only as a separate demonstration.

@@ -1,0 +1,9 @@
+Phase 3 – Project Planning
+
+The third phase is Project Planning. Once the solution and architecture are decided, the complete development process is divided into smaller and manageable tasks.
+
+The technologies required for the project are identified during this phase. The development tasks can include creating the user interface, developing the backend, connecting the database, integrating the AI model, implementing document generation, testing the application, debugging errors, and optimizing the final solution.
+
+The project is planned in a systematic order so that one component can be developed and connected with another component properly. The expected features and the scope of the project are also considered.
+
+For LegalEase, planning is especially important because the project combines software development and Generative AI. The AI model should not be treated as a separate feature; it should become part of the complete application workflow.

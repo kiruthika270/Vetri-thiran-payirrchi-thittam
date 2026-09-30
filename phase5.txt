@@ -1,0 +1,11 @@
+Phase 5 – Coding and Implementation
+
+The fifth phase is Coding and Implementation. This is where the planned design and features are converted into actual working software.
+
+Developers write the code required for the different components of LegalEase. The application logic, user-input processing, database operations, document-generation functionality, and other required features are implemented.
+
+The development process also involves continuously writing, testing, debugging, and optimizing the code. When an error occurs, the developer identifies the cause, corrects the code, and tests it again.
+
+Algorithms and appropriate programming techniques can also be used wherever required. For example, the application may need mechanisms for processing user information, searching required information, organizing data, or generating the required output.
+
+The main goal of this phase is to transform the planned LegalEase design into an actual working application.

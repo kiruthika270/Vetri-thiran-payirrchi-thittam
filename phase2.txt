@@ -1,0 +1,13 @@
+Phase 2 – Solution Design and Architecture
+
+After identifying the requirements, the next phase is Solution Design and Architecture. In this phase, a proper technical solution is designed for the identified problem. The complete structure of the LegalEase application is planned before writing the main code.
+
+The architecture explains how the different parts of the application will work together. The project may contain a frontend, backend, database, AI model, APIs, and application logic. Each component has a specific responsibility, and the communication between these components is planned carefully.
+
+For LegalEase, the overall workflow can be designed as follows:
+
+User Input → Application → AI Model → Generated Content → Digital Document
+
+The architecture also considers how the application will receive user information, send the required information to the AI model, receive the generated response, and finally use that response for document generation.
+
+A proper architecture makes the project easier to develop, test, maintain, and expand later.

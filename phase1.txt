@@ -1,0 +1,7 @@
+Phase 1 – Requirement Identification
+
+The first phase of the LegalEase project is Requirement Identification. In this phase, the main problem that the project needs to solve is clearly identified. The requirements of the application are collected and analyzed before starting the actual development process. This helps the development team understand what the application should do, what type of input the user will provide, and what output the system should generate.
+
+LegalEase is a Generative AI project for digital document generation. Therefore, the requirements are identified based on creating an application that can take the necessary user information and generate a suitable digital legal document. The expected features, user interaction, AI requirements, and document-generation requirements are considered at this stage.
+
+The requirements are then organized so that the project can move to the next stage. A clear understanding of the requirements helps avoid unnecessary development and provides a proper direction for the complete LegalEase project.
